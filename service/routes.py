@@ -190,31 +190,4 @@ def delete_products(product_id):
         product.delete()
 
     return "", status.HTTP_204_NO_CONTENT
-#
-# PLACE YOUR CODE TO LIST ALL PRODUCTS HERE
-#
 
-######################################################################
-# R E A D   A   P R O D U C T
-######################################################################
-
-#
-# PLACE YOUR CODE HERE TO READ A PRODUCT
-#
-
-######################################################################
-# U P D A T E   A   P R O D U C T
-######################################################################
-
-#
-# PLACE YOUR CODE TO UPDATE A PRODUCT HERE
-#
-
-######################################################################
-# D E L E T E   A   P R O D U C T
-######################################################################
-
-
-#
-# PLACE YOUR CODE TO DELETE A PRODUCT HERE
-#
